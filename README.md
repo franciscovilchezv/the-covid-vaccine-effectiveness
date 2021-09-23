@@ -14,6 +14,8 @@ For achieving that, we are going to start by tracking the COVID cases and their 
 
 ## Database design
 
+This is an initial proposal for the App's Database. Changes will likely be done in the future.
+
 ![](./bd.png)
 
 ### Tabla  user

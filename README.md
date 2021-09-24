@@ -77,4 +77,4 @@ mysql> desc covid_report;
 
 ## Additional information
 
-*Project created for [academical purposes](https://github.com/franciscovilchezv/platform-based-development/Quizzes/PC1/README.md).*
+*Project created for [academical purposes](https://github.com/franciscovilchezv/platform-based-development/blob/main/Quizzes/PC1/README.md).*

@@ -1,1 +1,2 @@
 
+-La pagina web no tiene movimiento en sus componentes , la aplicación web si.

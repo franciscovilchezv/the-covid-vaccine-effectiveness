@@ -8,8 +8,8 @@ For achieving that, we are going to start by tracking the COVID cases and their 
 
 | GitHub ID  | Position |
 | ------------- | ------------- |
-| @nex3  | Project Manager  |
-| @franciscovilchezv  | Developer  |
+| [@nex3](https://github.com/nex3)  | Project Manager  |
+| [@franciscovilchezv](https://github.com/franciscovilchezv)  | Developer  |
 | ?????  | Administrador de Base de Datos  |
 
 ## Database design

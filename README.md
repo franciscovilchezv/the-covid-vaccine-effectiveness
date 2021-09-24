@@ -6,11 +6,11 @@ For achieving that, we are going to start by tracking the COVID cases and their 
 
 ## Team
 
-| GitHub ID  | Position |
-| ------------- | ------------- |
-| [@nex3](https://github.com/nex3)  | Project Manager  |
-| [@franciscovilchezv](https://github.com/franciscovilchezv)  | Developer  |
-| ?????  | Administrador de Base de Datos  |
+| GitHub ID                                                  | Position                       |
+| ---------------------------------------------------------- | ------------------------------ |
+| [@nex3](https://github.com/nex3)                           | Project Manager                |
+| [@franciscovilchezv](https://github.com/franciscovilchezv) | Developer                      |
+| [@alessandrohuaytac](https://github.com/alessandrohuaytac) | Administrador de Base de Datos |
 
 ## Database design
 
@@ -18,7 +18,7 @@ This is an initial proposal for the App's Database. Changes will likely be done 
 
 ![](./bd.png)
 
-### Tabla  user
+### Tabla user
 
 ```
 mysql> desc user;
@@ -77,4 +77,4 @@ mysql> desc covid_report;
 
 ## Additional information
 
-*Project created for [academical purposes](https://github.com/franciscovilchezv/platform-based-development/blob/main/Quizzes/PC1/README.md).*
+_Project created for [academical purposes](https://github.com/franciscovilchezv/platform-based-development/blob/main/Quizzes/PC1/README.md)._

@@ -1,0 +1,3 @@
+- La ip es número que identifica de forma individual la conexión de mi equipo a una red interna o externa. UDP es un protocolo de transporte de datos al igual que TCP , la diferencia esta es que UDP no recupera los datos perdidos , TCP si.
+- En las videollamadas antiguamente se utilizaba el protocolo UDP pero ahora se utiliza el protocolo TCP . Un ejemplo en este caso seria la plataforma Zoom.
+-http://www.fmuser.net/Keditor/attached/image/20200921/20200921143723562356.jpg

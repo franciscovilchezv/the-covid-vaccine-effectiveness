@@ -10,7 +10,7 @@ For achieving that, we are going to start by tracking the COVID cases and their 
 | ------------- | ------------- |
 | [@nex3](https://github.com/nex3)  | Project Manager  |
 | [@franciscovilchezv](https://github.com/franciscovilchezv)  | Developer  |
-| [@Zanderz17] | Administrador de Base de Datos  |
+| [@Zanderz17](https://github.com/Zanderz17) | Administrador de Base de Datos  |
 
 ## Database design
 
